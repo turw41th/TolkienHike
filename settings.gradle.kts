@@ -15,3 +15,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "TolkienHike"
 include(":app")
+ 

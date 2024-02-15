@@ -1,4 +1,4 @@
-package com.turwaith.tolkienhike
+package com.turwaith.TolkienHike
 
 import org.junit.Test
 
